@@ -865,11 +865,14 @@ border-radius: .5rem;
   .certification__box{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     height: 150px;
-    width: 180px;
+    width: 200px;
   }
 
+  .coa-btn{
+    margin-top: -2rem;
+  }
 
   
 
