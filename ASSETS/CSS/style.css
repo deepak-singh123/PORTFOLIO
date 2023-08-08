@@ -862,6 +862,11 @@ border-radius: .5rem;
   .contact__container{
     margin-top:2rem;
   }
+  .certification__box{
+    height: 150px;
+    width: 180px;
+  }
+
 
   
 
