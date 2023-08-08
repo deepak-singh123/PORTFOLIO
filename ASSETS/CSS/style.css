@@ -642,7 +642,7 @@ border-radius: .5rem;
 
 /* =====================MEDIA QUERIES=================== */
 
-@media screen and (max-width:350px){
+@media screen and (max-width:420px){
   
   .container{
     margin-left: var(--mb-1);
@@ -697,6 +697,14 @@ border-radius: .5rem;
     .certification__line{
       display: none;
     }
+    .certification__container{
+      display: flex;
+      justify-content: center;
+    }
+    /* .certification__section{
+      margin-left: 3.5rem;
+    } */
+    
     
 }
 
