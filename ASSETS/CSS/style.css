@@ -842,7 +842,7 @@ border-radius: .5rem;
 
                /* for large device */
 
-@media screen and  (min-width:1024px){
+@media screen and  (min-width:1050px){
   .header,
   .main{
     padding: 0;
@@ -863,9 +863,10 @@ border-radius: .5rem;
     margin-top:2rem;
   }
   .certification__box{
+    margin-top: -1rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     height: 150px;
     width: 200px;
   }
@@ -873,12 +874,17 @@ border-radius: .5rem;
   .coa-btn{
     margin-top: -2rem;
   }
-
+  .coa-subtitle{
+    margin-top: 2rem;
+  }
+  .hcj-btn{
+    margin-top: 4rem;
+  }
   .hcj-title{
     margin-bottom: -2rem;
   }
   .hcj-subtitle{
-  margin-bottom: -7rem;
+  margin-bottom: -8rem;
   }
   .coa-title{
     margin-bottom: -2rem;
