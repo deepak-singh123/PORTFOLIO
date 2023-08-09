@@ -874,7 +874,7 @@ border-radius: .5rem;
 
                /* for large device */
 
-@media screen and  (min-width:1020px){
+@media screen and  (min-width:1044px){
   .header,
   .main{
     padding: 0;
