@@ -842,7 +842,7 @@ border-radius: .5rem;
 
                /* for large device */
 
-@media screen and  (min-width:1050px){
+@media screen and  (min-width:1020px){
   .header,
   .main{
     padding: 0;
@@ -875,16 +875,16 @@ border-radius: .5rem;
     margin-top: -2rem;
   }
   .coa-subtitle{
-    margin-top: 4rem;
+    margin-top: 2rem;
   }
   .hcj-btn{
-    margin-top: 10rem;
+    margin-top: -2rem;
   }
   .hcj-title{
     margin-bottom: -2rem;
   }
   .hcj-subtitle{
-  margin-bottom: -8rem;
+  margin-top: 2rem;
   }
   .coa-title{
     margin-bottom: -2rem;
